@@ -1,0 +1,20 @@
+Routing is a process in which a user is directed to different pages based on their action or request.
+ReactJS Router is mainly used for developing Single Page Web Applicaitions.
+React Router is used to define multiple routes in the application.
+
+
+React Router Installation...
+
+React Contains three different packages for routing. These are:
+1. react-router: It provides the core routing components and functions for the React Router applications.
+2. react-router-native: It is used for mobile applications design.
+3. react-router-dom: It is used for web applications design.
+
+$npm install react-router-dom --save
+
+
+import {Route, Link, BrowserRouter as Router} from '../node_modules/react-router-dom'
+
+
+Advance Route:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+

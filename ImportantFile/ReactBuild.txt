@@ -1,0 +1,5 @@
+react real server a upload korar jonno age build kore nite hoi.
+build korar por, build folder ti real server a upload korte hoi.
+build korte hoi jeivabe...
+
+npm run build

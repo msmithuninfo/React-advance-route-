@@ -1,0 +1,16 @@
+react DOM 5 ti method niye kaj kore...
+
+1. render()                    *****
+2. hydrate()		       *    
+3. unmountComponentAtNode()    *
+4. findDOMNode()	       ****
+5. createPortal()	       *
+
+render & hydrate is same.
+
+render()	ReactDOM.render(element, container[, callback])
+hydrate()	ReactDOM.render(element, container[, callback])
+unmountComponentAtNode() ReactDOM.unmountComponentAtNode(container)
+findDOMNode() 	ReactDOM.findDOMNode(component)
+CreatePortal()	ReactDOM.createPortal(child, container)
+

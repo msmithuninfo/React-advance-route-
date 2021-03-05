@@ -1,0 +1,28 @@
+### CSS in React is used to style the React App or component.
+* inline styling
+* css stylesheet
+* css module
+* styled components
+
+
+### Inline CSS:
+<h1 style={{color: "red", text-aligh: "center"}}> Hello</h1>
+
+### Object create kore css use kora.
+const mystyle={
+color: "blue",
+padding: "10px"
+};
+
+ <h1 style={mystyle}>Hello</h1>
+
+### css module
+import styles from './mystyles.module.css';
+ <h1 style={styles.mystyle}>Hello</h1>
+.mystyle{
+color: blue;
+padding: 10px;
+}
+
+
+

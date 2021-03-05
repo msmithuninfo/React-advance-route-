@@ -1,0 +1,4 @@
+npm install --save bootstrap
+
+import '../../bode_modules/bootstrap/dist/css/bootstrap.min.css'
+
